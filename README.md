@@ -88,8 +88,11 @@ These insights help HR teams improve employee retention strategies.
 ## Files Included
 
 hr-analytics-dataset.csv          → Dataset used for analysis
+
 hr-analytics-dashboard.pbix      → Power BI dashboard file
+
 hr-analytics.png                 → Dashboard screenshot
+
 README.md                        → Project documentation
 
 ## Dashboard Preview
