@@ -10,7 +10,7 @@ This project demonstrates industry-level skills in data analysis, business intel
 
 ## Dataset Information
 
-**Dataset Name:** `hr-analytics-dataset.csv`
+**Dataset Name:** `hr-analytics-dataset.xslx`
 
 The dataset contains employee-level information including:
 
